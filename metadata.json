@@ -1,0 +1,6 @@
+{
+  "name": "Премиум Барбершоп «Девять»",
+  "description": "Элитный московский барбершоп с интерактивной записью и умным AI-стилистом на базе Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
